@@ -62,4 +62,4 @@ interface = gr.ChatInterface(
     ]
 )
 
-interface.launch(share=True)
+interface.launch(interface.launch(server_name="0.0.0.0", server_port=10000))
