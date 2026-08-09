@@ -2,7 +2,7 @@ import gradio as gr
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="diHzeTcMa9514VVL9GXQzWWq0IsG9ETl",
+    api_key="IbvhIm1ja8VRAOePjPZAaDvuUySuKbU4",
     base_url="https://api.mistral.ai/v1"
 )
 
